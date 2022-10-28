@@ -1,0 +1,23 @@
+.wrapper{
+  max-width: 70rem;
+  margin: 2rem auto;
+  padding: 0 1rem;
+
+  display: grid;
+  grid-template-columns: 256px 1fr;
+  gap: 2rem;
+
+  align-items: flex-start;
+} 
+/*responsividade com css*/
+@media (max-width: 768px){
+
+  html{
+    /* 16 --100%
+       14--X=87.5 */
+    font-size: 87.5%;
+  }
+  .wrapper{
+    grid-template-columns: 1fr;
+  }
+}
