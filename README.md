@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  <img width="150px" src="https://user-images.githubusercontent.com/80908772/194680070-87fbc668-aee7-40d4-98d9-64ba84bf08c5.png"/>
+  <img src="https://github.com/GabriellMatias/Ignite-Blog/assets/80908772/9f19f6bd-c810-4b5f-8200-f1be484081b9"/>
 </h1>
 <br/>
 
